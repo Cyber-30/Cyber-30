@@ -104,6 +104,8 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" >
 <img src="https://img.shields.io/badge/sqlmap-FFFF00?style=for-the-badge" >
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Nessus-5d36c2?style=for-the-badge&logo=nessus&logoColor=white" />
+
 
 </div>
 
@@ -127,7 +129,7 @@
   
 **Operating system**
 
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,ubuntu)](https://skillicons.dev)
   
 </div>
 
@@ -137,15 +139,20 @@
 
 <div align="left">
   
-## 📊 GITHUB STATS
+
 
 </div>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Cyber-30&theme=dark">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Cyber-30&theme=dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-30&layout=compact&theme=dark">
-  
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Cyber-30/Cyber-30/main/Pi7_GIF_CMP%20(1).gif"
+       width="520"
+       alt="Cyber HUD Animation">
+</p>
+
+
+
+
 </div>
 
 <div align="left">
