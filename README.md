@@ -3,7 +3,7 @@
 ![Top Divider](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
 <details>
-<summary><b>▶ Click & Open To See :)</b></summary>
+<summary><b> Click & Open To See :)</b></summary>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -20,7 +20,8 @@
 
 **ABOUT ME**
 
-<img align="right" height="420" width="380" src="https://avatars.githubusercontent.com/u/156410658?v=4">
+<img align="right" height="400" width="380" src="https://github.com/user-attachments/assets/73c4273b-0c8d-46c6-92b1-f4a1f1b36f53">
+">
 
 <div align="left">
 
@@ -53,21 +54,27 @@
 
 <div align="left">
   
-### 🛠️ StealthDropper (Go)
-- Cross-platform payload dropper  
-- XOR-based payload obfuscation  
-- Windows execution logic  
-🔗 https://github.com/Cyber-30/StealthDropper
+### 🛠️ LOLBins-Detection-Tool
+- Process Monitoring 
+- Shell History Analysis
+- Temporal Process Correlation
+- False-Positive Reduction  
+  🔗 https://github.com/Cyber-30/LOLBins-Detection-Tool
 
-### 🕵️ ShadowRecon
+### 🕵️ ReconEngine
 - Passive OSINT reconnaissance tool  
 - WHOIS, DNS & subdomain intelligence  
 - Modular architecture  
-🔗 https://github.com/Cyber-30/ShadowRecon
+  🔗 https://github.com/Cyber-30/ReconEngine
 
-### 🎯 Phishing URL Detection (ML)
-- Machine-learning based phishing detection  
-- Feature engineering & evaluation  
+### 🎯 Phishing URL Detection
+- Authentication domain vs visible sender mismatch detection
+- Brand impersonation detection (banks & financial services)
+- URL extraction and risk analysis
+- Phishing language detection
+- Risk scoring engine 
+- Feature engineering & evaluation
+  🔗 https://github.com/Cyber-30/Phishing-Email-Analyzer
 
 ### 🔍 API Key Leakage Scanner
 - Regex-based secret detection  
