@@ -1,28 +1,187 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<div align="center">
 
+![Top Divider](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sourya-dutta/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Cyber-30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyberhunterops@gmail.com) 
+<details>
+<summary><b>▶ Click & Open To See :)</b></summary>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cyber-30&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cyber-30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-30&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cyber-30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Cyber-30&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Cyber-30) 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=google+sans&weight=200&duration=3000&pause=500&color=00FFD1&background=9690FF00&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sourya+Dutta+👋;Cybersecurity+Enthusiast+%7C+Bug+Bounty+Hunter;Aspiring+Penetration+Tester+🔥;Red+Team+%26+Offensive+Security+Learner;Breaking+Systems+to+Secure+Them+⚡" alt="Typing SVG" /></a>
+</p>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+**ABOUT ME**
+
+<img align="right" height="420" width="380" src="https://avatars.githubusercontent.com/u/156410658?v=4">
+
+<div align="left">
+
+🔹 College student and **passionate cybersecurity learner**  
+🔹 Interested in **Offensive Security, Red Teaming & Bug Bounty**  
+🔹 Hands-on experience with **Web, API & Network Security**  
+🔹 Building **real-world security tools** using **Go & Python**  
+🔹 Actively learning **PowerShell, Cloud & Malware concepts**  
+🔹 Goal: **Professional Penetration Tester / Red Teamer**
+
+<div align="left">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sourya-dutta) **•**  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Cyber-30) **•** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:cyberhunterops@gmail.com) **•** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Cyber-30)
+
+*Tools change. Mindset doesn’t.* 🧠
+
+</div>
+
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+  
+## 🔐 SECURITY PROJECTS
+
+</div>
+
+<div align="left">
+  
+### 🛠️ StealthDropper (Go)
+- Cross-platform payload dropper  
+- XOR-based payload obfuscation  
+- Windows execution logic  
+🔗 https://github.com/Cyber-30/StealthDropper
+
+### 🕵️ ShadowRecon
+- Passive OSINT reconnaissance tool  
+- WHOIS, DNS & subdomain intelligence  
+- Modular architecture  
+🔗 https://github.com/Cyber-30/ShadowRecon
+
+### 🎯 Phishing URL Detection (ML)
+- Machine-learning based phishing detection  
+- Feature engineering & evaluation  
+
+### 🔍 API Key Leakage Scanner
+- Regex-based secret detection  
+- JavaScript & config scanning  
+
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+  
+## ⚡TECHNICAL STRENGTHS
+
+</div>
+
+<div align="left">
+  
+**Specialized Tools**
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" >
+<img src="https://img.shields.io/badge/sqlmap-FFFF00?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge" >
+
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+  
+**Programming Skills and Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,python,bash,powershell,aws,docker,tor)](https://skillicons.dev)
+  
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+  
+**Operating system**
+
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows)](https://skillicons.dev)
+  
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+  
+## 📊 GITHUB STATS
+
+</div>
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Cyber-30&theme=dark">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Cyber-30&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-30&layout=compact&theme=dark">
+  
+</div>
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"  width="100%" >
+</div>
+
+<div align="left">
+
+## 📬 WORK WITH ME
+
+</div>
+
+<div align="left">
+
+> Available for **learning collaborations**, **open-source security projects**, and **bug bounty teaming**
+
+</div>
+
+<div align="left">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sourya-dutta) **•**  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Cyber-30) **•** [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:cyberhunterops@gmail.com) **•** [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Cyber-30)
+
+</div>
+
+<p align="left">
+<b>Let’s break it before attackers do.</b>
+</p>
+
+<!-- Snake Contribution -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<h4 align="center">Engineered by Sourya Dutta (@Cyber-30)</h4>
+
+</details>
+
+![Bottom Divider](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
+</div>
