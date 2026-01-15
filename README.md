@@ -64,7 +64,8 @@
 ### 🕵️ ReconEngine
 - Passive OSINT reconnaissance tool  
 - WHOIS, DNS & subdomain intelligence  
-- Modular architecture  
+- Modular architecture
+
   🔗 https://github.com/Cyber-30/ReconEngine
 
 ### 🎯 Phishing URL Detection
@@ -74,6 +75,7 @@
 - Phishing language detection
 - Risk scoring engine 
 - Feature engineering & evaluation
+
   🔗 https://github.com/Cyber-30/Phishing-Email-Analyzer
 
 ### 🔍 API Key Leakage Scanner
