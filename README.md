@@ -117,7 +117,7 @@
   
 **Programming Skills and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,python,bash,powershell,aws,docker,tor)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,python,bash,powershell,docker,azure)](https://skillicons.dev)
   
 </div>
 
@@ -129,7 +129,7 @@
   
 **Operating system**
 
-[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,windows,ubuntu,arch)](https://skillicons.dev)
   
 </div>
 
